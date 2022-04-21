@@ -153,7 +153,7 @@ namespace ExquisiteCorpse
                     MonsterBody();
                     break;
                 case 3:
-                    BugHead();
+                    BugBody();
                     break;
             }
 
